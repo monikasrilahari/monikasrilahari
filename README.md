@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm T. Lahari 👋
 
-<!--
-**monikasrilahari/monikasrilahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Student | Internet of Things | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a B.Tech student specializing in Internet of Things (IoT) at Malla Reddy University, Hyderabad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in software development, IoT, cybersecurity, data analytics, and emerging technologies.
+
+### 💻 Technical Skills
+- **Programming:** Python, Java, C++
+- **Web Development:** HTML, CSS, JavaScript
+- **Backend:** Flask
+- **Database:** SQLite, SQL
+- **Tools:** Git, GitHub, VS Code
+- **Concepts:** IoT, Cybersecurity, Data Analytics
+
+### 🚀 Featured Projects
+
+**1. SentinelIoT – AI-Powered IoT Vulnerability Prioritization Engine**
+- Python, Flask, SQLite, HTML, CSS, JavaScript
+- NVD API integration
+- Contextual vulnerability risk prioritization
+
+**2. Complaint Management System**
+- React, Spring Boot, MySQL
+- Complaint tracking and management
+
+**3. IoT-Based Health Monitoring System**
+- IoT-based health monitoring concept for paralysis patients
+
+### 📜 Certifications & Experience
+- SQL, Python, Java and OOP certifications
+- Supervised and Unsupervised Machine Learning
+- Virtual Internship – Data Analytics (Tata)
+
+### 🎯 Career Interests
+- Software Development
+- IoT & Cybersecurity
+- Data Analytics
+- Data Science
+
+### 📫 Connect with Me
+- GitHub: https://github.com/monikasrilahari
+
+---
+*Always learning, building, and exploring new technologies.*
