@@ -10,7 +10,7 @@ I'm interested in software development, IoT, cybersecurity, data analytics, and 
 - **Programming:** Python, Java, C++
 - **Web Development:** HTML, CSS, JavaScript
 - **Backend:** Flask
-- **Database:** SQLite, SQL
+- **Database:** SQLite, SQL, MySQL
 - **Tools:** Git, GitHub, VS Code
 - **Concepts:** IoT, Cybersecurity, Data Analytics
 
@@ -25,12 +25,18 @@ I'm interested in software development, IoT, cybersecurity, data analytics, and 
 - React, Spring Boot, MySQL
 - Complaint tracking and management
 
-**3. IoT-Based Health Monitoring System**
-- IoT-based health monitoring concept for paralysis patients
+**3. Finding Joy Through Holy Places**
+- Python, Flask, SQLite, HTML, CSS, JavaScript
+- Website featuring 20 famous holy places in India
+- Search and category filters
+- Favourites and visit planning
+- Admin dashboard for managing place information
+
+**4. IoT-Based Health Monitoring System**
+- IoT-based health monitoring concept for paralysis patients(Hardware project)
 
 ### 📜 Certifications & Experience
 - SQL, Python, Java and OOP certifications
-- Supervised and Unsupervised Machine Learning
 - Virtual Internship – Data Analytics (Tata)
 
 ### 🎯 Career Interests
